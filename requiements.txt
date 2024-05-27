@@ -1,6 +1,6 @@
 streamlit
 numpy
 pandas
-sklearn
+scikit-learn
 train_test_split
 RandomForestClassifier
